@@ -1,6 +1,6 @@
 
 <?
-
+qwerqwerqwreqwre
 $yourEmail = 'info@wstudio.hu';
 
 if(isset($_POST['submitted'])) { 
